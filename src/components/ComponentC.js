@@ -15,4 +15,4 @@ function ComponentC() {
   );
 }
 
-export default withUser(ComponentC);
+export default ComponentC;

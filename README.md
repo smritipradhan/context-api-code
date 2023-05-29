@@ -68,7 +68,7 @@ function ComponentC() {
   );
 }
 
-export default withUser(ComponentC);
+export default ComponentC;
 ```
 
 https://www.loginradius.com/blog/engineering/react-context-api/
